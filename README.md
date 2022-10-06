@@ -44,4 +44,4 @@
 
 
 
-<h3 align="left">All my projects you can find in my profile :point_down:</h3>
+<h3 align="left">All my projects you can find in the profile :point_down:</h3>
