@@ -4,7 +4,7 @@
 <ul> 
 <li><a href="https://certificate.ithillel.ua/view/10482899" target="_blank">Front End Basic (HTML & CSS)</a></li>
 <li><a href="https://certificate.ithillel.ua/ru/view/73507248" target="_blank">Front End Pro (JavaScript)</a> </ul></li>
-<p>I'm a passionate coder! I try to do a perfect job in everything, and I enjoy the process immensely. My motto: I see the goal, not the obstacles.</p>
+<p>I'm a passionate coder :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. My motto: I see the goal, not the obstacles.</p>
 
 <h3 align="left">Languages and Tools:</h3>
   
