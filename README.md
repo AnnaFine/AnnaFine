@@ -1,4 +1,4 @@
-<h1>Hello! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/> My name is <a href="https://www.linkedin.com/in/anna-venhirovska/" target="_blank">Anna Venhirovska</a> :heart_eyes_cat: !<h1>
+<h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is <a href="https://www.linkedin.com/in/anna-venhirovska/" target="_blank">Anna Venhirovska</a> :heart_eyes_cat: !<h1>
 <h2>:blush:I'm looking for my first job as a Front End developer.</h2>
 <p>:white_check_mark:I successfully completed the courses:</p>
 <ul> 
