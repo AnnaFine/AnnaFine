@@ -1,11 +1,10 @@
 <h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !<h1>
-<h2>:blush:I'm looking for my first job as a Front End developer.</h2>
-<p>:white_check_mark:I successfully completed the courses:</p>
+<h2>:blush: I'm looking for my first job as a Front End developer.</h2>
+<p>:white_check_mark: I successfully completed the courses:</p>
 <ul> 
 <li><a href="https://certificate.ithillel.ua/view/10482899" target="_blank">Front End Basic (HTML & CSS)</a></li>
 <li><a href="https://certificate.ithillel.ua/ru/view/73507248" target="_blank">Front End Pro (JavaScript)</a> </ul></li>
 <p>I'm a passionate coder! I try to do a perfect job in everything, and I enjoy the process immensely. My motto: I see the goal, not the obstacles.</p>
-<p>All my projects you can find in my profile :point_right:</p>
 
 <h3 align="left">Languages and Tools:</h3>
   
@@ -29,9 +28,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
   
-  
-  
-<h3 align="left">Connect with me:</h3>
+
+<h2 align="left">Connect with me:</h2>
 
 <a href="https://github.com/AnnaVenhirovska" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -42,4 +40,8 @@
 <a href="https://instagram.com/anutkaven" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+
+
+
+<h3 align="left">All my projects you can find in my profile :point_down:</h3>
