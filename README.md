@@ -7,8 +7,8 @@
 <li><a href="https://certificate.ithillel.ua/ru/view/73507248" target="_blank">Front End Pro (JavaScript)</a></li> 
 </ul>
 
-<img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="396" height="280">
-<img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="396" height="280">
+<img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="413" height="292">
+<img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="413" height="292">
 
 <br />
 
