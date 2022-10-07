@@ -16,8 +16,7 @@
 <p>I try to get the most out of my time at study and practice, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
 <p> <i> I'll be glad to work with you.</i> :heart:	</p>
 
-<img src="https://ltdfoto.ru/images/2022/10/07/Pngtreepop-style-comic-cartoon-big_1173863.png" alt="Girl in a jacket" width="980" height="430">
-
+<img src="https://github.com/AnnaFine/AnnaFine/blob/main/quote.jpg?raw=true" alt="Girl in a jacket" width="980" height="430">
 
 
 
