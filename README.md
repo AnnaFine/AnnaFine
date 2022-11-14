@@ -10,9 +10,7 @@
 
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/98329577_en.png" alt="Front End Basic" width="402" height="284">
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="402" height="284">
-  <br />
-  <br />
-  <br />
+----------------------------------------
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="402" height="284">
 
 <br />
