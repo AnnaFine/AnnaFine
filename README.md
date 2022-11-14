@@ -5,7 +5,7 @@
 <ul>
 <li><a href="https://certificate.ithillel.ua/view/98329577" target="_blank">QA Manual</a></li>
 <li><a href="https://certificate.ithillel.ua/view/10482899" target="_blank">Front End Basic (HTML & CSS)</a></li>
-<li><a href="https://certificate.ithillel.ua/ru/view/73507248" target="_blank">Front End Pro (JavaScript)</a></li> 
+<li><a href="https://certificate.ithillel.ua/view/73507248" target="_blank">Front End Pro (JavaScript)</a></li> 
 </ul>
 
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/98329577_en.png" alt="Front End Basic" width="402" height="284">
