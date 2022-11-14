@@ -18,6 +18,7 @@
 <p> <strong>I'm a passionate coder :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in both groups :fire:! I’m skilled with HTML & CSS and JavaScript, I continue to learn other technologies, step by step. :heart_eyes:</p>
 <p>I try to get the most out of my time at study and practice, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
 <p> <i> I'll be glad to work with you.</i> :heart: </p>
+<img align="left" src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg" alt="White Bar">
 
 <img src="https://github.com/AnnaFine/AnnaFine/blob/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
 
