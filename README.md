@@ -8,6 +8,11 @@
 <li><a href="https://certificate.ithillel.ua/view/73507248" target="_blank">Front End Pro (JavaScript)</a></li> 
 </ul>
 
+  <p> <strong>I'm a passionate Automation QA Engineer :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in three groups :fire:! I’m skilled with Manual/Automation testing, HTML & CSS, and JavaScript, I continue to learn other technologies, step by step. :heart_eyes:</p>
+<p>I try to get the most out of my time to practice new features and study, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
+<p> <i> I'll be glad to work with you.</i> :heart: </p>
+  
+  
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/98329577_en.png" alt="Front End Basic" width="402" height="284">
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="402" height="284">
 <img src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg" alt="White Bar">
@@ -15,9 +20,7 @@
 
 <br />
 
-<p> <strong>I'm a passionate Automation QA Engineer :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in three groups :fire:! I’m skilled with Manual/Automation testing, HTML & CSS, and JavaScript, I continue to learn other technologies, step by step. :heart_eyes:</p>
-<p>I try to get the most out of my time to practice new features and study, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
-<p> <i> I'll be glad to work with you.</i> :heart: </p>
+
 <img align="left" src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg" alt="White Bar">
 
 <img src="https://github.com/AnnaFine/AnnaFine/blob/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
